@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Anderson-losada-expe/go-eureka-lib/eureka"
+	"github.com/ANDERSON1808/go-eureka-lib/eureka"
 )
 
 func main() {

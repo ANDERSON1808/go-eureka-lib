@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/Anderson-losada-expe/go-eureka-lib/eureka"
+	"github.com/ANDERSON1808/go-eureka-lib/eureka"
 	"github.com/gin-gonic/gin"
 )
 
