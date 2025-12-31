@@ -84,7 +84,6 @@ func RegisterWithEureka(config Config, username, password string) error {
 		return fmt.Errorf("error registering in Eureka. Status code: %d", resp.StatusCode)
 	}
 
-	fmt.Println("Registered in Eureka successfully. 😀👏")
 	return nil
 }
 
